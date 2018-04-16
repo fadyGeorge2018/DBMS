@@ -1,0 +1,12 @@
+*
+UNIVERSITY
+students
+sid
+fname
+lname
+*
+UNIVERSITY
+courses
+cid
+cname
+*
